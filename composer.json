@@ -1,0 +1,25 @@
+{
+    "name": "sdui/daterange",
+    "description": "Provides an Object that contains the DateTimeRange for start and end times. Also provides the opportunity to create the gaps between a scope and multiple intersections.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sören Sauerbrei",
+            "email": "soeren.sauerbrei@sdui.de"
+        }
+    ],
+    "require": {
+        "php": ">= 7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "nesbot/carbon": "^2.54"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sdui\\Library\\DateRange\\": "src/",
+            "Sdui\\Tests\\Library\\DateRange\\": "tests/"
+        }
+    }
+}
