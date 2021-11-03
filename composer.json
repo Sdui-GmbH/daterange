@@ -6,6 +6,14 @@
         {
             "name": "Sören Sauerbrei",
             "email": "soeren.sauerbrei@sdui.de"
+        },
+        {
+            "name": "Jan Micha Kroll",
+            "email": "kroll@sdui.de"
+        },
+        {
+            "name": "Matthias Schermuly",
+            "email": "matthias.schermuly@sdui.de"
         }
     ],
     "require": {
